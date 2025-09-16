@@ -1,9 +1,9 @@
 
 # Site settings
-title: 
-email: 
-baseurl: "/JekyllTheme-ProjectGaia" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Francisco documentation
+email: 1074896@pdsb.net
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://1074896-glitch.github.io/" # the base hostname & protocol for your site
 
 markdown: kramdown
 # toc_levels: 1……2
